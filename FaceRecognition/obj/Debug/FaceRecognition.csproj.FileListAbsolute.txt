@@ -1,0 +1,29 @@
+I:\Image Processing\FaceRecognition\FaceRecognition\bin\Debug\FaceRecognition.exe.config
+I:\Image Processing\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.frmMain.resources
+I:\Image Processing\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.Properties.Resources.resources
+I:\Image Processing\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.csproj.GenerateResource.Cache
+I:\Image Processing\FaceRecognition\FaceRecognition\bin\Debug\FaceRecognition.exe
+I:\Image Processing\FaceRecognition\FaceRecognition\bin\Debug\FaceRecognition.pdb
+I:\Image Processing\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.exe
+I:\Image Processing\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.pdb
+I:\Image Processing\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.csprojResolveAssemblyReference.cache
+C:\Shivesh\FaceRecognition\FaceRecognition\bin\Debug\FaceRecognition.exe.config
+C:\Shivesh\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.exe
+C:\Shivesh\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.pdb
+C:\Shivesh\FaceRecognition\FaceRecognition\bin\Debug\FaceRecognition.exe
+C:\Shivesh\FaceRecognition\FaceRecognition\bin\Debug\FaceRecognition.pdb
+C:\Shivesh\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.csprojResolveAssemblyReference.cache
+C:\Shivesh\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.frmMain.resources
+C:\Shivesh\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.Properties.Resources.resources
+C:\Shivesh\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.csproj.GenerateResource.Cache
+C:\Shivesh\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.frmImageProcessing.resources
+C:\Users\amit\Desktop\FaceRecognition\FaceRecognition\FaceRecognition\bin\Debug\FaceRecognition.exe.config
+C:\Users\amit\Desktop\FaceRecognition\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.exe
+C:\Users\amit\Desktop\FaceRecognition\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.pdb
+C:\Users\amit\Desktop\FaceRecognition\FaceRecognition\FaceRecognition\bin\Debug\FaceRecognition.exe
+C:\Users\amit\Desktop\FaceRecognition\FaceRecognition\FaceRecognition\bin\Debug\FaceRecognition.pdb
+C:\Users\amit\Desktop\FaceRecognition\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.csprojResolveAssemblyReference.cache
+C:\Users\amit\Desktop\FaceRecognition\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.frmImageProcessing.resources
+C:\Users\amit\Desktop\FaceRecognition\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.frmMain.resources
+C:\Users\amit\Desktop\FaceRecognition\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.Properties.Resources.resources
+C:\Users\amit\Desktop\FaceRecognition\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.csproj.GenerateResource.Cache
